@@ -7,7 +7,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: url('https://api.paugram.com/bing'); /* 替换为您的背景图片URL */
+    background-image: url('https://bz.zzzmh.cn/bing'); /* 替换为您的背景图片URL */
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
